@@ -11028,6 +11028,8 @@ a.text-dark:focus {
 .video-text h4 {
   font-family: 'Montserrat', sans-serif;
   text-transform: uppercase;
+  font-weight: 500;
+  margin-top: 1rem;
 }
 
 .color-overlay {
@@ -11518,7 +11520,7 @@ a.text-dark:focus {
   }
 
   .video-text h4 {
-    font-size: 1rem;
+    font-size: 2.2rem;
   }
 
   .about-grid {

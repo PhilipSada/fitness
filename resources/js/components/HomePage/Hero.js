@@ -16,9 +16,9 @@ const Hero = ()=>(
                    
                      <header className="header-video">
                         <div className='video-text'>
-                            <h1>Discover the best Workout</h1>
-                            <h4 className="mb-4">Just for you</h4>
-                            <button className="member-btn mt-4">Find a course</button>
+                            <h1>Discover the best Workout <br/>for you</h1>
+                            {/* <h4>Just for you</h4> */}
+                            {/* <button className="member-btn mt-4">Find a course</button> */}
                             
                         </div>
                         <div className='video-container'>
