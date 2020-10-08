@@ -11525,8 +11525,8 @@ a.text-dark:focus {
 
   .about-grid {
     display: grid;
-    justify-items: center;
-    grid-template-columns: repeat(auto-fill, minmax(550px, 1fr));
+    justify-content: center;
+    grid-template-columns: repeat(2, 550px);
     row-gap: 2rem;
     padding-bottom: 7rem;
     padding-top: 4rem;
@@ -11576,8 +11576,8 @@ a.text-dark:focus {
 
   .class-cards-grid {
     display: grid;
-    justify-items: center;
-    grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+    justify-content: center;
+    grid-template-columns: repeat(4, 310px);
     row-gap: 3rem;
     padding-bottom: 4rem;
     padding-left: 8rem;
@@ -11586,8 +11586,8 @@ a.text-dark:focus {
   }
 
   .member-modal-container .member-modal {
-    width: 50%;
-    height: 75vh;
+    width: 800px;
+    height: 550px;
   }
 
   .personal-info-form {

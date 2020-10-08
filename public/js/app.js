@@ -76965,8 +76965,8 @@ if (document.getElementById('index')) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\sada_\Downloads\xampp program\htdocs\fitness\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\sada_\Downloads\xampp program\htdocs\fitness\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\sada_\Downloads\xampp\htdocs\fitness\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\sada_\Downloads\xampp\htdocs\fitness\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })
